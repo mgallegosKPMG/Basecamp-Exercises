@@ -1,0 +1,10 @@
+# Secrets — never commit API keys
+api_key
+*.key
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -5,9 +5,8 @@ import importlib
 import tabulate
 from dotenv import load_dotenv
 import os
-
-api_key = ""  # <-- Paste your API key here
-
+api_key ="YOUR_API_KEY_HERE"
+    
 import anthropic
 
 # Initialize the Anthropic client
